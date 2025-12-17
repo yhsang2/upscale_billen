@@ -33,8 +33,6 @@ This program upscales an image to **2× resolution** using a pre-trained model.
 Place the image you want to upscale in the project folder  
 (e.g. `input.jpg`).
 
----
-
 ### 3️⃣ Run the upscaling command
 
 Execute the following command:
@@ -42,6 +40,8 @@ Execute the following command:
 ```bash
 python upscale2x.py -m ./EDSR_x2.pb input.jpg output.png
 ```
+
+---
 
 ## 📂 Project Structure
 
