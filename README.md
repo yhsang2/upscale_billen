@@ -62,6 +62,12 @@ upscale_billen/
   (Exact libraries may vary depending on implementation.)
   ```
 
+
+## 👉 Core Logic
+
+- This code is the **core logic of this project**.
+<img width="2285" height="1307" alt="image" src="https://github.com/user-attachments/assets/fd51286f-0076-4e9b-bec8-11c3a99cce1b" />
+
 ---
 
 ## ☕ Support
