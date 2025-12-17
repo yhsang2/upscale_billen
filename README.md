@@ -17,3 +17,22 @@ image using an image upscaling algorithm.
 - 🎯 Ideal for beginners learning image processing
 
 ---
+
+---
+
+## 🚀 How It Works
+
+1. Loads `input.jpg`
+2. Applies an image upscaling algorithm
+3. Outputs a **2× higher-resolution image** as `output.jpg`
+
+---
+
+## 🛠️ Requirements
+
+- Python 3.8+
+- Required Python libraries:
+  ```bash
+  pip install pillow opencv-python
+  (Exact libraries may vary depending on implementation.)
+  ```
