@@ -24,7 +24,7 @@ image using an image upscaling algorithm.
 2. Applies an image upscaling algorithm
 3. Outputs a **2× higher-resolution image** as `output.jpg`
 
-## ▶️ Usage
+### 1️⃣ Usage
 
 This program upscales an image to **2× resolution** using a pre-trained model.
 
