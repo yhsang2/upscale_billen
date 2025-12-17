@@ -19,11 +19,12 @@ image using an image upscaling algorithm.
 ---
 
 ## 📂 Project Structure
+
 upscale_billen/
-├── input.jpg # Original image
-├── output.jpg # Upscaled image (generated)
-├── upscale.py # Main script
-└── README.md
+- ├── input.jpg # Original image
+- ├── output.jpg # Upscaled image (generated)
+- ├── upscale.py # Main script
+- └── README.md
 
 📌 Description
 
