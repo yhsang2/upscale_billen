@@ -18,6 +18,31 @@ image using an image upscaling algorithm.
 
 ---
 
+## 📂 Project Structure
+upscale_billen/
+├── input.jpg # Original image
+├── output.jpg # Upscaled image (generated)
+├── upscale.py # Main script
+└── README.md
+
+📌 Description
+
+input.jpg
+The original image you want to upscale.
+
+output.jpg
+The generated image with doubled resolution.
+
+upscale.py
+The core script that performs the image upscaling.
+
+requirements.txt
+Lists all required Python libraries.
+
+README.md
+Project documentation and usage guide.
+
+
 ---
 
 ## 🚀 How It Works
