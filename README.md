@@ -18,6 +18,16 @@ image using an image upscaling algorithm.
 
 ---
 
+## 🚀 How It Works
+
+1. Loads `input.jpg`
+2. Applies an image upscaling algorithm
+3. Outputs a **2× higher-resolution image** as `output.jpg`
+
+## ▶️ Usage
+
+This program upscales an image to **2× resolution** using a pre-trained model.
+
 ### 2️⃣ Prepare the input image
 
 Place the image you want to upscale in the project folder  
@@ -40,14 +50,6 @@ upscale_billen/
 - ├── output.jpg # Upscaled image (generated)
 - ├── upscale.py # Main script
 - └── README.md
-
----
-
-## 🚀 How It Works
-
-1. Loads `input.jpg`
-2. Applies an image upscaling algorithm
-3. Outputs a **2× higher-resolution image** as `output.jpg`
 
 ---
 
