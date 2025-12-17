@@ -61,7 +61,8 @@ upscale_billen/
   pip install pillow opencv-python
   (Exact libraries may vary depending on implementation.)
   ```
-
+  
+---
 
 ## 👉 Core Logic
 
