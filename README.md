@@ -18,6 +18,21 @@ image using an image upscaling algorithm.
 
 ---
 
+### 2️⃣ Prepare the input image
+
+Place the image you want to upscale in the project folder  
+(e.g. `input.jpg`).
+
+---
+
+### 3️⃣ Run the upscaling command
+
+Execute the following command:
+
+```bash
+python upscale2x.py -m ./EDSR_x2.pb input.jpg output.png
+```
+
 ## 📂 Project Structure
 
 upscale_billen/
@@ -25,24 +40,6 @@ upscale_billen/
 - ├── output.jpg # Upscaled image (generated)
 - ├── upscale.py # Main script
 - └── README.md
-
-📌 Description
-
-input.jpg
-The original image you want to upscale.
-
-output.jpg
-The generated image with doubled resolution.
-
-upscale.py
-The core script that performs the image upscaling.
-
-requirements.txt
-Lists all required Python libraries.
-
-README.md
-Project documentation and usage guide.
-
 
 ---
 
